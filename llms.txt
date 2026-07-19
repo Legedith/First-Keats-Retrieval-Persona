@@ -1,0 +1,16 @@
+# Kith Protocol / Life Narrative Elicitation Method
+
+Canonical AI interviewer instructions: /INTERVIEWER.md
+Repository agent mode rules: /AGENTS.md
+Core principles: /docs/01-core-principles.md
+Interviewer handbook: /docs/02-interviewer-handbook.md
+Method flow: /docs/03-method-flow.md
+Question selection: /docs/04-question-framework.md
+Question library: /docs/05-question-bank.md
+Consent and boundaries: /docs/06-ethics-consent-boundaries.md
+Memory safety: /docs/07-memory-risk-and-question-safety.md
+AI role boundary: /docs/12-future-ai-boundary.md
+Worked AI session: /examples/ai-first-session.md
+AI acceptance checks: /tests/ai-interviewer-acceptance.md
+
+An AI asked to interview a narrator should read /INTERVIEWER.md first and start with its consent gate. It must remain the interviewer, never a simulation of the narrator.

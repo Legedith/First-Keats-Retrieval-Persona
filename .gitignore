@@ -1,3 +1,10 @@
 .DS_Store
 Thumbs.db
 *.tmp
+
+# Narrator data is private by default. Store it outside the public repository.
+private/
+sessions/
+*.private.md
+*.session-state.md
+*.transcript.md

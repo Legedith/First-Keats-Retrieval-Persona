@@ -2,7 +2,7 @@
 
 ## Goal
 
-The goal is to help a narrator tell a richly contextualized account of their life while preserving their agency, uncertainty, and own way of making meaning.
+The goal is to help a narrator tell a richly contextualized account of their life while preserving their agency, uncertainty, privacy, and own way of making meaning.
 
 A correct interview should capture:
 
@@ -11,8 +11,8 @@ A correct interview should capture:
 - Relationships.
 - Social and historical context.
 - Changes across time.
-- The narrator’s present interpretation.
-- What is uncertain, private, disputed, or unfinished.
+- The narrator's present interpretation.
+- What is uncertain, private, disputed, restricted, or unfinished.
 
 ## Main assumptions
 
@@ -20,11 +20,12 @@ This method assumes:
 
 - The narrator is a consenting adult.
 - The narrator can decide what to share.
-- The interviewer is trusted and prepared.
-- The interview is not being used to prove wrongdoing, diagnose illness, or force reconciliation.
-- The narrator can pause, refuse, restrict, or withdraw material.
+- The interviewer is prepared and identifies whether they are human, AI, or human with AI assistance.
+- Recording, platform, storage, and retention limits are stated accurately.
+- The interview is not being used to prove wrongdoing, diagnose illness, collect legal evidence, or force reconciliation.
+- The narrator can pause, refuse, correct, restrict, or withdraw material subject to real technical and legal limits.
 
-If these assumptions are false, use a more specialized professional process.
+If these assumptions are false or unknown, use a more specialized professional process or narrow the session.
 
 ## Principle 1: The narrator is the authority on the telling
 
@@ -44,13 +45,13 @@ Contradictions can be documented later without turning the interview into a tria
 
 A memory is not a video file stored in the mind. It is reconstructed through present identity, later knowledge, family retellings, photographs, emotions, and social setting.
 
-This means the interviewer can accidentally change the account by introducing facts, motives, or emotions.
+This means an interviewer or AI can accidentally change the account by introducing facts, motives, emotions, causality, or another person's version.
 
 Avoid:
 
 > “Were you scared when your father forced you to move?”
 
-Unless the narrator has already said all three things:
+unless the narrator has already said all three things:
 
 1. They were scared.
 2. Their father forced them.
@@ -60,11 +61,11 @@ Safer:
 
 > “What do you remember about deciding to move?”
 
-## Principle 3: Start broad, then follow the narrator’s own path
+## Principle 3: Start broad, then follow the narrator's path
 
 Do not begin with a checklist. Begin with a broad invitation.
 
-Then use the narrator’s words, sequence, and chosen emphasis to guide follow-up questions.
+Then use the narrator's words, sequence, and chosen emphasis to guide follow-up questions.
 
 The first account reveals what the narrator considers meaningful.
 
@@ -107,7 +108,7 @@ A normal Tuesday can be historically more valuable than another retelling of a w
 
 ## Principle 6: Preserve context
 
-A person’s life is shaped by conditions they did not choose.
+A person's life is shaped by conditions they did not choose.
 
 Ask about:
 
@@ -141,6 +142,8 @@ Do not respond with:
 
 > “But this is important for the record.”
 
+Do not ask the same question again in softer wording.
+
 ## Principle 8: Uncertainty is valuable
 
 Do not force exact dates, motives, or names.
@@ -155,7 +158,7 @@ Preserve uncertainty:
 
 Uncertainty is not a defect. It is part of the evidence.
 
-## Principle 9: One person’s account should not contaminate another’s first account
+## Principle 9: One person's account should not contaminate another's first account
 
 If interviewing multiple relatives, collect independent accounts before comparing versions.
 
@@ -168,6 +171,8 @@ Better first:
 > “What do you remember about how the family managed money during that period?”
 
 Comparison can happen later, with consent and care.
+
+During first recall, an AI should not browse, search archives, or introduce documents unless the narrator requests it.
 
 ## Principle 10: Do not force a redemptive arc
 
@@ -183,18 +188,32 @@ Better:
 
 > “How do you understand that period now?”
 
-## Principle 11: The recording is primary
+## Principle 11: The source record is primary
 
-Notes, summaries, timelines, and written biographies are useful, but they are interpretations.
+Original audio, video, chat, or verbatim transcript is the primary record wherever possible.
 
-The original audio or video should remain the primary record wherever possible.
+Notes, summaries, timelines, translations, and biographies are interpretations.
 
-Any later summary should show what it is based on.
+Any later output should show what it is based on and distinguish direct memory, family story, document-supported fact, inference, uncertainty, dispute, and restriction.
 
-## Principle 12: The interviewer is part of the interview
+## Principle 12: The interviewer and system are part of the interview
 
-The narrator tells a different story depending on who is listening.
+The narrator tells a different story depending on who or what is listening.
 
 A father may speak differently to a daughter than to a friend. A grandmother may avoid topics in front of a grandson. A political story may change if the interviewer belongs to another caste, class, religion, or generation.
 
-The method must account for that. It cannot pretend the interviewer is invisible.
+An AI also changes the interaction. A narrator may believe it is neutral, private, authoritative, endlessly patient, or impossible to offend. Those beliefs may be false and may increase disclosure.
+
+The interviewer must identify their role, state system limits honestly, and avoid pretending to be invisible or neutral.
+
+## Principle 13: One substantive question at a time
+
+A human can overwhelm through interruption. An AI can overwhelm through speed, length, and lists.
+
+Ask one substantive question, then wait. Do not present a questionnaire, stack five follow-ups, or treat rapid response as good listening.
+
+## Principle 14: Never simulate the narrator by default
+
+The interviewer may quote, paraphrase, summarize, or help retrieve approved source material. The interviewer must not speak as the narrator, fill gaps in first person, or turn an archive into a plausible synthetic self.
+
+The person, the record, and the generated interface are different things.

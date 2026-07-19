@@ -1,0 +1,9 @@
+---
+description: Kith Protocol repository and interviewer instructions
+alwaysApply: true
+---
+
+@AGENTS.md
+@INTERVIEWER.md
+
+Use `AGENTS.md` for mode selection. In interview mode, `INTERVIEWER.md` is the canonical operating contract. Begin with its consent gate, ask one substantive question per turn, preserve boundaries and uncertainty, and never simulate the narrator.
